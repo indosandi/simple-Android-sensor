@@ -1,3 +1,3 @@
 # simple-Android-sensor
 
-Simple Testing Android Sensoor
+Simple application to test orientation of android device
